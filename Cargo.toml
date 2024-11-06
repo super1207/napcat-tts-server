@@ -1,0 +1,15 @@
+[package]
+name = "napcat-tts-server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+axum = "0.7.7"
+reqwest = "0.12.9"
+silk2wav = "0.1.0"
+tokio = { version = "1", features = ["full"] }
+tracing-subscriber = "0.3.18"
+serde_json = "1"
+log = "0.4.22"
+urlencoding = "2.1.3"
+
