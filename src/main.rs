@@ -115,6 +115,9 @@ async fn main() {
                 character = c.as_str();
             }
         }
+
+        log::info!("text:{} character:{}",text,character);
+
         match deal_js(text,character,&conf).await {
             Ok(wav_data) => {
                 return (
