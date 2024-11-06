@@ -8,7 +8,7 @@ config.json 例子
 
 ```json
 {
-    "group_id":588093809,
+    "group_id":123456789,
     "host":"127.0.0.1",
     "port":7788,
     "napcat_token":"123456",
