@@ -39,6 +39,12 @@ character：角色，参见napcat的文档，可省略，默认为`lucy-voice-m8
 
 text：要合成的文本，必填。
 
+# 测试demo
+
+个人的小主机，仅用于测试，别上压力。
+
+https://qqtts.super1207.top/tts?character=lucy-voice-suxinjiejie&text=喵喵喵
+
 # 角色列表
 
 角色：lucy-voice-m8
